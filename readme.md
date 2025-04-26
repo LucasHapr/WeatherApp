@@ -81,4 +81,4 @@ npx expo start
 
 
 ## 📥 Download do APK / Teste Web
-- 🔥 [Baixar APK](https://expo.dev/accounts/lucashapr/projects/WeatherApp)
+- 🔥 [Baixar APK](https://expo.dev/artifacts/eas/hHs6L22mz4PtwZ5737GwX6.aab)
