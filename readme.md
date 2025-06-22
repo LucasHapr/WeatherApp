@@ -76,8 +76,8 @@ npx expo start
 ### Tela de Cadastro
 ![Register Screen](./assets/register-screen.jpeg)
 
-### Tela de Consulta Clima
-![Weather Screen](./assets/weather-screen.jpeg)
+### Tela de Consulta Clima (com nova funcionalidade!)
+![Weather Screen](./assets/new-weather-screen.png)
 
 
 ## 📥 Download do APK / Teste Web
