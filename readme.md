@@ -68,6 +68,22 @@ WEATHER_API_KEY=SUA_CHAVE_WEATHER_API
 npx expo start
 ```
 
+## 🧠 Nova Funcionalidade – Assistente Virtual de Clima com IA
+
+O app agora conta com um **assistente inteligente**, capaz de interpretar perguntas em linguagem natural e responder com previsões personalizadas.
+
+### Exemplos:
+- “Vai chover amanhã em Recife?”
+- “Qual a sensação térmica em Salvador hoje à noite?”
+- “Como estará o tempo no fim de semana em São Paulo?”
+
+### Como funciona:
+- Integração com a **OpenAI API** para interpretar a pergunta.
+- Extração automática da cidade e data.
+- Consulta à **WeatherAPI** com base nas informações interpretadas.
+- Resposta clara e direta com o clima atual ou futuro.
+
+
 ## 🖼️ Imagens do App
 
 ### Tela de Login
